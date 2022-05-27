@@ -1,4 +1,4 @@
-## 👋 heyo! we're ACM at UCLA, the largest tech organzation on campus
+## 👋 heyo! we're ACM at UCLA, the largest tech organization on campus
 
 We're *super passionate* about open-source; it's a perfect fit for our broader goal of making tech accessible to anybody and everybody! We encourage you to file issues and open PRs; **all contributions are welcome!** 
 
